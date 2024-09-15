@@ -43,6 +43,7 @@ We evaluate the performance of our models using the following metrics:
 Mean Squared Error (MSE): Measures the average squared difference between actual and predicted values.
 R² (R-squared): Indicates how well the model fits the data, where 1.0 is a perfect fit.
 
-# Result
-Model               MSE	   R²
-Linear Regression:	22.18	 0.74
+# Result              
+Linear Regression:	
+MSE=22.18	
+R^2=0.74
