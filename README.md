@@ -20,10 +20,10 @@ Each record in the database describes a house in Boston suburb or town. Detailed
 
 Attribute Information:
 
-CRIM: Per capita crime rate by town
-ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.
-INDUS: Proportion of non-retail business acres per town
-CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+*CRIM: Per capita crime rate by town
+*ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.
+*INDUS: Proportion of non-retail business acres per town
+*CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
 NOX: Nitric Oxide concentration (parts per 10 million)
 RM: The average number of rooms per dwelling
 AGE: Proportion of owner-occupied units built before 1940
