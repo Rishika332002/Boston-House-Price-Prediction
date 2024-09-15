@@ -1,11 +1,11 @@
 # Boston-House-Price-Prediction
 The the goal of this project is to predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, we need to identify the most important features affecting the price of the house. We employed techniques of data preprocessing and built a linear regression model that predicts the prices for the unseen data.
 # Table of content
-Project Overview
-Dataset
-Models Used
-Evaluation Metrics
-Results
+1.Project Overview
+2.Dataset
+3.Models Used
+4.Evaluation Metrics
+5.Results
 
 # Project Overview
 The Boston House Price Prediction project involves the following steps:
